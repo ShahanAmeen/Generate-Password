@@ -7,7 +7,7 @@ This homework assignment is designed to prompt an event to generate a password t
 ![Application screenshot](https://github.com/shahanameen/Generate-Password/blob/master/assets/password.png?raw=true)
 ## URL
 https://github.com/ShahanAmeen/Generate-Password/
-
+https://shahanameen.github.io/Generate-Password/ 
 ## Author
 Shahan Ameen
 https://github.com/ShahanAmeen 
